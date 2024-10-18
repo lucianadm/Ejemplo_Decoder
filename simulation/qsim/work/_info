@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LSC\Desktop\Ejemplo_Decoder\simulation\qsim
+vDeco
+Z1 IiOfH2UAfI46:_SDdbAI2H3
+Z2 V03;cKET1:hW_UVf;XmPG@1
+Z3 dC:\Users\LSC\Desktop\Ejemplo_Decoder\simulation\qsim
+Z4 w1729280111
+Z5 8Deco.vo
+Z6 FDeco.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@deco
+!i10b 1
+Z10 !s100 7P3;bU3kR8i^UKhGLe85z2
+!s85 0
+Z11 !s108 1729280113.183000
+Z12 !s107 Deco.vo|
+Z13 !s90 -work|work|Deco.vo|
+!s101 -O0
+vDeco_vlg_check_tst
+!i10b 1
+!s100 a;bRz:FfWd=QFeHCo?Cf_3
+IC8T[QbJIj5GnVcI[AdSHS1
+VYZL@LYze4_h`4f_^3?ND80
+R3
+Z14 w1729280110
+Z15 8Deco.vt
+Z16 FDeco.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z17 !s108 1729280113.386000
+Z18 !s107 Deco.vt|
+Z19 !s90 -work|work|Deco.vt|
+!s101 -O0
+R8
+n@deco_vlg_check_tst
+vDeco_vlg_sample_tst
+!i10b 1
+!s100 Fa>?e3cXl6ABA62zDVlmD0
+IihBi@HUDo]0SFTGcMMjd32
+V:SR:KU3?ihY0Umn=VHV;03
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@deco_vlg_sample_tst
+vDeco_vlg_vec_tst
+!i10b 1
+!s100 mg:9kmJFa9X3Ec220SHeb1
+I[fYKQWWQ?^UbcY9]K6YPJ3
+VYTMdIX_KO=M2PR;4>C`092
+R3
+R14
+R15
+R16
+L0 277
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@deco_vlg_vec_tst
